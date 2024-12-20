@@ -94,3 +94,7 @@
 [05:31:11] [Server thread/INFO]: [mart0_ssj: Set the time to 1000]
 [05:31:22] [Server thread/INFO]: [mart0_ssj: Set the time to 13000]
 [05:36:47] [Server thread/WARN]: mart0_ssj moved too quickly! -2.8928138888404646,-4.430567119243122,8.526525446904088
+[05:39:41] [Server thread/INFO]: mart0_ssj lost connection: Timed out
+[05:39:41] [Server thread/INFO]: mart0_ssj left the game
+[05:39:43] [Server thread/INFO]: mart0_ssj[/127.246.83.97:35211] logged in with entity id 54003 at (15131.300000011921, 116.94388133454054, 1284.2432164451386)
+[05:39:43] [Server thread/INFO]: mart0_ssj joined the game
