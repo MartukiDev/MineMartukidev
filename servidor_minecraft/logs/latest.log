@@ -84,3 +84,8 @@
 [04:56:21] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=15063, y=111, z=1306} gu{x=15062, y=111, z=1305}
 [04:56:21] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=15063, y=111, z=1306} gu{x=15062, y=111, z=1305}
 [05:07:53] [Server thread/INFO]: [mart0_ssj: Set own game mode to Creative Mode]
+[05:10:13] [Server thread/INFO]: mart0_ssj lost connection: Timed out
+[05:10:13] [Server thread/INFO]: mart0_ssj left the game
+[05:10:38] [Server thread/INFO]: mart0_ssj[/127.246.83.97:33627] logged in with entity id 51190 at (15124.403473185586, 138.74540219699398, 1294.5376532782136)
+[05:10:38] [Server thread/INFO]: mart0_ssj joined the game
+[05:11:09] [Server thread/INFO]: [mart0_ssj: Set petroleo's game mode to Creative Mode]
