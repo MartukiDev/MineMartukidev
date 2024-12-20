@@ -79,3 +79,7 @@
 [04:45:01] [Server thread/INFO]: mart0_ssj was shot by Skeleton
 [04:45:12] [Server thread/INFO]: [mart0_ssj: Teleported mart0_ssj to petroleo]
 [04:46:45] [Server thread/INFO]: [mart0_ssj: Set the time to 1000]
+[04:55:56] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=15095, y=108, z=1280} gu{x=15079, y=111, z=1282}
+[04:56:21] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=15063, y=111, z=1306} gu{x=15062, y=111, z=1305}
+[04:56:21] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=15063, y=111, z=1306} gu{x=15062, y=111, z=1305}
+[04:56:21] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=15063, y=111, z=1306} gu{x=15062, y=111, z=1305}
