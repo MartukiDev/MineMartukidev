@@ -4,5 +4,11 @@
     "name": "mart0_ssj",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e900e2c8-b3a8-38f4-addb-272fdc1427d4",
+    "name": "petroleo",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
