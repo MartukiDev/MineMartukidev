@@ -8,9 +8,19 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-20 01:27:07 +0000",
+      "minecraft:birch_forest": "2024-12-20 03:21:14 +0000",
+      "minecraft:beach": "2024-12-20 03:05:12 +0000",
+      "minecraft:dark_forest": "2024-12-20 03:20:35 +0000",
       "minecraft:river": "2024-12-20 02:59:34 +0000",
       "minecraft:stony_shore": "2024-12-20 02:57:31 +0000",
+      "minecraft:cold_ocean": "2024-12-20 03:05:14 +0000",
+      "minecraft:forest": "2024-12-20 03:14:00 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-20 03:05:24 +0000",
+      "minecraft:frozen_ocean": "2024-12-20 03:06:35 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-20 03:05:43 +0000",
+      "minecraft:ocean": "2024-12-20 03:11:14 +0000",
       "minecraft:frozen_peaks": "2024-12-20 01:26:08 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-20 03:21:05 +0000",
       "minecraft:meadow": "2024-12-20 02:41:51 +0000",
       "minecraft:plains": "2024-12-20 01:27:24 +0000"
     },
@@ -444,7 +454,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2024-12-20 02:19:26 +0000"
+      "cooked_beef": "2024-12-20 02:19:26 +0000",
+      "mutton": "2024-12-20 03:15:35 +0000"
     },
     "done": false
   },
@@ -496,15 +507,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-20 03:04:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2024-12-20 02:50:14 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-20 03:12:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-20 03:00:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-12-20 03:04:18 +0000"
     },
     "done": true
   },
@@ -616,6 +645,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-20 03:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-20 03:12:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-20 02:50:14 +0000"
@@ -631,6 +672,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-20 03:00:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-20 03:04:18 +0000"
     },
     "done": true
   },
@@ -679,6 +726,18 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-20 03:00:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-20 03:04:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-20 03:04:18 +0000"
     },
     "done": true
   },
@@ -736,6 +795,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-20 03:04:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-20 02:49:41 +0000"
@@ -757,6 +822,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 02:56:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-20 03:14:11 +0000"
     },
     "done": true
   },
@@ -784,6 +855,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-20 03:04:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-12-20 03:14:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-12-20 02:56:12 +0000"
@@ -793,6 +876,18 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-20 02:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-20 03:04:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-20 03:04:18 +0000"
     },
     "done": true
   },
