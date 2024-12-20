@@ -67,3 +67,10 @@
 [04:26:34] [Server thread/INFO]: [mart0_ssj: Set petroleo's game mode to Creative Mode]
 [04:26:39] [Server thread/INFO]: [mart0_ssj: Set own game mode to Creative Mode]
 [04:28:03] [Server thread/INFO]: [mart0_ssj: Teleported mart0_ssj to 15000.500000, 72.901554, 1526.243807]
+[04:29:17] [Server thread/INFO]: [petroleo: Teleported petroleo to mart0_ssj]
+[04:30:25] [Server thread/INFO]: [petroleo: Teleported petroleo to mart0_ssj]
+[04:30:41] [Server thread/INFO]: [mart0_ssj: Set petroleo's game mode to Survival Mode]
+[04:30:47] [Server thread/INFO]: [mart0_ssj: Set own game mode to Survival Mode]
+[04:34:37] [Server thread/INFO]: [mart0_ssj: Set own game mode to Creative Mode]
+[04:37:25] [Server thread/INFO]: [mart0_ssj: Set own game mode to Survival Mode]
+[04:38:24] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=15086, y=112, z=1288} gu{x=15085, y=112, z=1287}

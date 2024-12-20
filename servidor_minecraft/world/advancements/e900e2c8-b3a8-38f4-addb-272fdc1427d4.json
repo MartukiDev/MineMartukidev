@@ -463,7 +463,8 @@
       "cooked_mutton": "2024-12-20 03:52:02 +0000",
       "cooked_beef": "2024-12-20 02:19:26 +0000",
       "apple": "2024-12-20 03:51:54 +0000",
-      "mutton": "2024-12-20 03:15:35 +0000"
+      "mutton": "2024-12-20 03:15:35 +0000",
+      "bread": "2024-12-20 04:35:51 +0000"
     },
     "done": false
   },
@@ -975,6 +976,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 02:56:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-12-20 04:31:30 +0000"
     },
     "done": true
   },
