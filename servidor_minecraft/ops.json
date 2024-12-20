@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "05c44bee-68b7-3dce-a820-87474a684d61",
+    "name": "mart0_ssj",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
