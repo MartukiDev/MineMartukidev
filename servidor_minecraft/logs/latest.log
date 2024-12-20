@@ -74,3 +74,8 @@
 [04:34:37] [Server thread/INFO]: [mart0_ssj: Set own game mode to Creative Mode]
 [04:37:25] [Server thread/INFO]: [mart0_ssj: Set own game mode to Survival Mode]
 [04:38:24] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=15086, y=112, z=1288} gu{x=15085, y=112, z=1287}
+[04:43:44] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=15107, y=112, z=1310} gu{x=15106, y=111, z=1310}
+[04:43:44] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=15107, y=112, z=1310} gu{x=15106, y=111, z=1310}
+[04:45:01] [Server thread/INFO]: mart0_ssj was shot by Skeleton
+[04:45:12] [Server thread/INFO]: [mart0_ssj: Teleported mart0_ssj to petroleo]
+[04:46:45] [Server thread/INFO]: [mart0_ssj: Set the time to 1000]
